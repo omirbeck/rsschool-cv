@@ -1,4 +1,4 @@
-#[rsschool-cv](https://omirbeck.github.io/rsschool-cv/)
+# [rsschool-cv](https://omirbeck.github.io/rsschool-cv/)
 
 # Resume
 ## Tulepov Omirbek
@@ -14,7 +14,7 @@ My professional goal is to become a Front-End developer. With the help of these 
 ## Skills
 + HTML & CSS
 + Java Script basic
-+ Python
++ Python basic
 + PowerShell
 + Git
 
@@ -30,7 +30,7 @@ a3.forEach(function (elem, index) {
 })
 
 ## Experience
-You can find my projects at my [Github](https://github.com/omirbeck/)
+You can find my projects at my [Github](https://github.com/omirbeck/), I create telegram bot for Zabbix (monitoring software)
 
 ## Education
 + Automating Administration with Windows PowerShell
